@@ -1,0 +1,14 @@
+C:\Users\Cab\source\repos\WCS_1-les_conditions\WCS_1-les_conditions\obj\Debug\netcoreapp3.1\WCS_1-les_conditions.csproj.AssemblyReference.cache
+C:\Users\Cab\source\repos\WCS_1-les_conditions\WCS_1-les_conditions\obj\Debug\netcoreapp3.1\WCS_1-les_conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cab\source\repos\WCS_1-les_conditions\WCS_1-les_conditions\obj\Debug\netcoreapp3.1\WCS_1-les_conditions.AssemblyInfoInputs.cache
+C:\Users\Cab\source\repos\WCS_1-les_conditions\WCS_1-les_conditions\obj\Debug\netcoreapp3.1\WCS_1-les_conditions.AssemblyInfo.cs
+C:\Users\Cab\source\repos\WCS_1-les_conditions\WCS_1-les_conditions\obj\Debug\netcoreapp3.1\WCS_1-les_conditions.csproj.CoreCompileInputs.cache
+C:\Users\Cab\source\repos\WCS_1-les_conditions\WCS_1-les_conditions\bin\Debug\netcoreapp3.1\WCS_1-les_conditions.exe
+C:\Users\Cab\source\repos\WCS_1-les_conditions\WCS_1-les_conditions\bin\Debug\netcoreapp3.1\WCS_1-les_conditions.deps.json
+C:\Users\Cab\source\repos\WCS_1-les_conditions\WCS_1-les_conditions\bin\Debug\netcoreapp3.1\WCS_1-les_conditions.runtimeconfig.json
+C:\Users\Cab\source\repos\WCS_1-les_conditions\WCS_1-les_conditions\bin\Debug\netcoreapp3.1\WCS_1-les_conditions.runtimeconfig.dev.json
+C:\Users\Cab\source\repos\WCS_1-les_conditions\WCS_1-les_conditions\bin\Debug\netcoreapp3.1\WCS_1-les_conditions.dll
+C:\Users\Cab\source\repos\WCS_1-les_conditions\WCS_1-les_conditions\bin\Debug\netcoreapp3.1\WCS_1-les_conditions.pdb
+C:\Users\Cab\source\repos\WCS_1-les_conditions\WCS_1-les_conditions\obj\Debug\netcoreapp3.1\WCS_1-les_conditions.dll
+C:\Users\Cab\source\repos\WCS_1-les_conditions\WCS_1-les_conditions\obj\Debug\netcoreapp3.1\WCS_1-les_conditions.pdb
+C:\Users\Cab\source\repos\WCS_1-les_conditions\WCS_1-les_conditions\obj\Debug\netcoreapp3.1\WCS_1-les_conditions.genruntimeconfig.cache
